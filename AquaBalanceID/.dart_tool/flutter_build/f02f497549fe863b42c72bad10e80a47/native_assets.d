@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Desktop\\flutter\\aqua_balance\\.dart_tool\\flutter_build\\f02f497549fe863b42c72bad10e80a47\\native_assets.yaml: 
